@@ -6,5 +6,5 @@ This repo shall be used for official documentation regarding the project
 - Resources are decoupled from guidelines i.e all resources are saved in a folder 📂  while guidelines are outlined in the readme.md.
 - There are three branches for different purposes.
 > Web/app design documentation 
-> Intergrated circuit documentation
-> database systems documentation
+  Intergrated circuit documentation
+  database systems documentation
