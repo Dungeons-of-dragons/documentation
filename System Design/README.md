@@ -13,6 +13,6 @@ All data from the microcontroller is stored in a database and the information ca
 The mobile application also acts as an Input Control Unit where the user can manually adjust appliances used in their household.
 
 # Firmware Design
-![alt firmware design]()
+![alt firmware design](https://github.com/Dungeons-of-dragons/documentation/blob/main/System%20Design/home%20firmware.drawio.png)
 The flowchart represents our firmware design.
-This flow of processes ensures security in users home and access to the information present, ready data visualization in their smartphones, analytics of specific data such as energy used in the home and enabling the user to make changes in to their home appliances.
+This flow of processes ensures security in users' homes and access to the information present, ready data visualization in their smartphones, analytics of specific data such as energy used in the home, and enabling the user to make changes in to their home appliances.
