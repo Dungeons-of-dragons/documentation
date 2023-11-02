@@ -1,5 +1,5 @@
 # System Design
-![alt System design](Home system design.drawio.png)
+![alt System design](System Design/Home system design.drawio.png)
 The flowchart represents our system design. It is composed of: 
     - Microcontroller(ESP32)
     - Raspberry Pi (model 4B)
@@ -13,6 +13,6 @@ All data from the microcontroller is stored in a database and the information ca
 The mobile application also acts as an Input Control Unit where the user can manually adjust appliances used in their household.
 
 # Firmware Design
-![alt Firmware design](home firmware.drawio.png)
+![alt Firmware design](System Design/home firmware.drawio.png)
 The flowchart represents our firmware design.
 This flow of processes ensures security in users home and access to the information present, ready data visualization in their smartphones, analytics of specific data such as energy used in the home and enabling the user to make changes in to their home appliances.
