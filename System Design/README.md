@@ -1,5 +1,6 @@
 # System Design
 ![alt system design](https://github.com/Dungeons-of-dragons/documentation/blob/main/System%20Design/Home%20system%20design.drawio.png)
+
 The flowchart represents our system design. It is composed of: 
     - Microcontroller(ESP32)
     - Raspberry Pi (model 4B)
@@ -14,5 +15,6 @@ The mobile application also acts as an Input Control Unit where the user can man
 
 # Firmware Design
 ![alt firmware design](https://github.com/Dungeons-of-dragons/documentation/blob/main/System%20Design/home%20firmware.drawio.png)
+
 The flowchart represents our firmware design.
 This flow of processes ensures security in users' homes and access to the information present, ready data visualization in their smartphones, analytics of specific data such as energy used in the home, and enabling the user to make changes in to their home appliances.
